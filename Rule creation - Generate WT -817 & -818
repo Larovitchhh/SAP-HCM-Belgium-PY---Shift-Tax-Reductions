@@ -1,0 +1,12 @@
+We have to create a rule to generated the WT /817 & /818, in order to generate the rest of the WTs. We would generate from WT /40S. So, later on we would need to look for a part of the schema where this WT is already generated.
+
+Transaction - PE02 
+
+Line   Var.Key CL T Operation Operation Operation Operation Operation Operation
+       -------------+---------+---------+---------+---------+---------+--------
+000010            D ADDWT *   ZERO= NRA NUM=100   TABLEST   VARGBSHFTW
+000020 *
+000030 W            ADDWT /817
+000040 X            ADDWT /817
+000050 Y            ADDWT /818
+000060 Z            ADDWT /818
