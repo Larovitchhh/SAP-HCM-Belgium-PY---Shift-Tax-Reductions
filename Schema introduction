@@ -1,0 +1,14 @@
+We have to introduce our rule inside of the schema, selecting a level in the schema where WT /40S is already generated
+
+Transaction - PE01
+
+Cmmnd
+Line   Func. Par1 Par2 Par3 Par4 D Text
+000010 BLOCK BEG                   BLOCK Exit 12A7 -> schema )0A7
+000020 PIT   )0ST                  Shift Reductions
+000030
+000040
+000050
+000060
+000070
+000080 BLOCK END
